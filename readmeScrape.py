@@ -14,9 +14,9 @@ def fetch_readme(repo_url):
 def main():
     # List of GitHub repository URLs
     repo_urls = [
-        "https://github.com/repository1",
-        "https://github.com/repository2",
-        "https://github.com/repository3"
+        "https://github.com/repository1", #edit here
+        "https://github.com/repository2", #edit here
+        "https://github.com/repository3" #edit here
     ]
 
     for url in repo_urls:
